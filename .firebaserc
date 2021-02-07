@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testproject-b8150": {
+      "hosting": {
+        "paginatorTest": [
+          "testproject-b8150"
+        ]
+      }
+    }
+  }
+}
